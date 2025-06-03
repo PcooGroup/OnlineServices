@@ -1,0 +1,6 @@
+1. textOS is in an archived state, and will only be updated when required to, i.e., to fix a bug. 
+2. textOS is freeware, if you have paid for this, demand your money back immediately. 
+3. textOS is open source, feel free to make a custom version of this and use it, make sure you give credit to Pcoo Group for any code that you use from us. 
+4. Pcoo Group reserves the right to remove textOS and any of it's functions at any time.
+5. To use some services in this software, you authorise textOS to connect to Pcoo Group's online services to download features and addons. 
+6. Pcoo Group reserves the right to modify the terms of service in any way, and we will notify you by using services such as the message board. 
